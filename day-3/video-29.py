@@ -3,7 +3,9 @@ height = int(input("What is you height in CM? "))
 
 if height >= 120:
     age = int(input("How old are you? "))
-    if age <= 18:
+    if age < 12:
+        print("You have to pay $5")
+    elif age <= 18:
         print("You have to pay $7")
     else:
         print("You have to pay $12")
