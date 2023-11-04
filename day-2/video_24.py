@@ -13,6 +13,7 @@ print(result)
 
 
 
+
 age = 25
 name = 'sadman'
 bookLover = True
