@@ -13,3 +13,5 @@ else:
         print("you win!")
     else:
         print("Game over, try again!")
+
+name = "sadmen"
